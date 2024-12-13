@@ -7,9 +7,10 @@ Meu background com tecnologia vem do perído que frequentei a Universidade Feder
 Meu objetivo atual é conseguir crescer na carreira, aprender ferramentas interessantes e de bom uso enquanto me desafio pelo caminho.
 
 ##Projetos
+
 ###Python
--[Análise Superstore](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/SuperStore.ipynb)
+*[Análise Superstore](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/SuperStore.ipynb)
 
--[Análise Comparativa Brasil](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/BrasilGeo.ipynb)
+*[Análise Comparativa Brasil](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/BrasilGeo.ipynb)
 
--[Exploração de dados da Airbnb Rio de Janeiro](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/Airbnb_Rio_Analysis.ipynb)
+*[Exploração de dados da Airbnb Rio de Janeiro](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/Airbnb_Rio_Analysis.ipynb)
