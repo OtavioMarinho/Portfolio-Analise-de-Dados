@@ -5,3 +5,11 @@ Oi, meu nome é Otávio! Quero mudar de carreira para a área de dados, estou in
 Meu background com tecnologia vem do perído que frequentei a Universidade Federal de Itajubá no curso de Ciência da Computação, o qual não pude dar continuidade. Desde então estudei para concursos, trabalhei como empresário e corretor de imóveis.
 
 Meu objetivo atual é conseguir crescer na carreira, aprender ferramentas interessantes e de bom uso enquanto me desafio pelo caminho.
+
+##Projetos
+###Python
+-[Análise Superstore](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/SuperStore.ipynb)
+
+-[Análise Comparativa Brasil](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/BrasilGeo.ipynb)
+
+-[Exploração de dados da Airbnb Rio de Janeiro](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/Airbnb_Rio_Analysis.ipynb)
