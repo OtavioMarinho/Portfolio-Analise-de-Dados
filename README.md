@@ -15,7 +15,7 @@ Meu objetivo atual é conseguir crescer na carreira, aprender ferramentas intere
 
 * [Análise Comparativa Brasil](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/BrasilGeo.ipynb)
 
-* [Destaques e commerce Espaço K](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/kvendas.ipynb)
+* [Destaques e commerce Espaço K (Código)](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/kvendas.ipynb)
 
 ### SQL
 * [SQL Simples em operações simuladas de um Hotel](https://github.com/OtavioMarinho/Portfolio-Analise-de-Dados/blob/main/SQLDemo.ipynb)
